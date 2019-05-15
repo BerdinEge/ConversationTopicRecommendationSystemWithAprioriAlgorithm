@@ -1,0 +1,7 @@
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\obj\Debug\TopicRecommendation.csprojResolveAssemblyReference.cache
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\obj\Debug\TopicRecommendation.csproj.CoreCompileInputs.cache
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\bin\Debug\TopicRecommendation.exe.config
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\bin\Debug\TopicRecommendation.exe
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\bin\Debug\TopicRecommendation.pdb
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\obj\Debug\TopicRecommendation.exe
+C:\Users\berdin123\source\repos\TopicRecommendation\TopicRecommendation\obj\Debug\TopicRecommendation.pdb
